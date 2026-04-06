@@ -1,4 +1,3 @@
-<img width="1028" height="807" alt="image" src="https://github.com/user-attachments/assets/fdb1ec57-eb94-4d36-85f7-adc08c060b7a" />
 # 💫 About Me:
 🔭 I’m currently working on data-driven backend applications using Java and SQL  <br><br>🤝 I’m looking to collaborate on Data Analysis and database-related projects  <br><br>🧠 I’m looking for help with real-world datasets, data analysis techniques, and SQL optimization  <br><br>🌱 I’m currently learning Data Analysis with Python (Pandas, NumPy) and data visualization basics  <br><br>💬 Ask me about SQL, Java, database design, and backend systems  <br><br>⚡ Fun fact: I’m transitioning from backend development to data analysis by combining coding with data insights
 
